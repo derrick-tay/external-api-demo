@@ -35,7 +35,7 @@ Example :
 * [URL] - http://localhost:8080/api/posts/v1/search/posts
 * [Request Payload] - 
 {
-    "userId": 11,
+    "userId": 1,
     "id": 1
 }
 
